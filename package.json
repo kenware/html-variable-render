@@ -1,0 +1,26 @@
+{
+  "name": "html-variable-render",
+  "version": "1.0.0",
+  "description": "Render variable into html usually for  emails ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "template",
+    "varibles in html",
+    "promise",
+    "async"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenware/html-variable-render.git"
+  },
+  "author": "kenware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenware/html-variable-render/issues"
+  },
+  "homepage": "https://github.com/kenware/html-variable-render#readme"
+}
